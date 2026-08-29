@@ -16,6 +16,9 @@ research pedigree — just a plan and some consistent hours.
 You should already have most of these — and it's fine if a couple are missing. Phase 0 exists to
 close exactly those gaps before the real climb starts.
 
+> 🧭 **[Open the interactive tracker →](https://claude.ai/code/artifact/f9f63870-8f38-4efc-9d54-72d272208be1)**
+> The same plan as a day-by-day checklist — set a start date, check off tasks, and it pins a "you are here" marker on today's task automatically. Progress saves in your browser.
+
 | You have | Why it matters |
 | --- | --- |
 | 1–3 years writing production code | You already know Git, testing, code review, debugging |
