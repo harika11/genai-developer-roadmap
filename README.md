@@ -24,8 +24,7 @@ close exactly those gaps before the real climb starts.
 | Basic SQL + one datastore | RAG needs a vector store; everything needs persistence |
 | Docker basics | Deployment, reproducible envs |
 
-**You do NOT need:** a PhD, a math degree, or prior ML experience. You do need to be comfortable
-reading a paper's abstract and not panicking at a summation symbol.
+You do need to be comfortable reading a paper's abstract and not panicking at a summation symbol.
 
 ---
 
