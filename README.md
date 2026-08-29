@@ -1,17 +1,20 @@
 # GenAI Developer Roadmap
 
 A 6-month, week-by-week plan to go from **~2 years of general software engineering experience** to a
-hireable **Generative AI / AI Engineer**.
+confident **Generative AI / AI Engineer**.
 
-This is not a "learn all of machine learning" roadmap. It is the shortest honest path for someone who
-already knows how to ship software, and now needs to learn how to build products on top of large
-language models.
+Here's the good news: you already have the hard part. You know how to ship software, debug things
+that break in weird ways, and work with requirements that aren't fully spelled out — that's most of
+the job, right there. This roadmap fills in the specific, learnable gap: how large language models
+work, and how to build good products on top of them. It doesn't require a math background or a
+research pedigree — just a plan and some consistent hours.
 
 ---
 
 ## Who this is for
 
-You should already have most of these. If you don't, spend a week or two closing the gap first.
+You should already have most of these — and it's fine if a couple are missing. Phase 0 exists to
+close exactly those gaps before the real climb starts.
 
 | You have | Why it matters |
 | --- | --- |
@@ -35,7 +38,7 @@ below aims at **AI Engineer**, which is by far the most accessible from a softwa
 | --- | --- | --- | --- |
 | **AI Engineer / GenAI App Developer** ← *this roadmap* | Build RAG systems, agents, and LLM features into products. Prompting, evals, orchestration, deployment. | Low | ✅ Yes |
 | **ML Engineer (LLM)** | Fine-tuning, distillation, serving optimization, inference infra | Medium | ⚠️ ~12 months |
-| **Research Scientist** | Novel architectures, training runs, publishing | High | ❌ Needs grad school |
+| **Research Scientist** | Novel architectures, training runs, publishing | High | A different path — not this roadmap |
 
 ---
 
@@ -374,15 +377,17 @@ You're getting technical screens. Then keep building while you interview.
 
 ---
 
-## A realistic warning
+## Why this is a realistic goal, not a stretch
 
-Six months of part-time study makes you a credible junior-to-mid GenAI engineer, **especially when
-combined with your existing 2 years of software experience** — which is genuinely your biggest
-asset here, not a deficit. Most people entering this field can prompt a chatbot but cannot ship,
-test, or operate software. You can.
+Six months of steady, part-time effort is genuinely enough to become a credible, hireable GenAI
+engineer — **especially with 2 years of software experience already behind you.** That experience
+is your biggest advantage here, not a gap you're behind on. Most people entering this field can get
+a chatbot to say something clever; very few can ship, test, and operate software that depends on
+one. You already know how to do that part. This roadmap teaches you the rest.
 
-It will not make you competitive for research roles or senior ML positions. That's fine. The AI
-Engineer role is where the volume of hiring actually is.
+This plan points squarely at the **AI Engineer** role, and that's also where almost all of the
+current hiring is happening — companies building products on top of models, not research labs. The
+goal and the opportunity line up, which is exactly what makes this worth the six months.
 
 ---
 

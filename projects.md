@@ -69,7 +69,7 @@ you can measure and improve a system, not just wire one together.
 
 **Build after Week 17.**
 
-An agent with genuine tool access that does something useful and mildly consequential.
+An agent with genuine tool access that does something useful and has real stakes — a great, confidence-building exercise in building safeguards you control.
 
 **Good ideas**
 - A repo maintenance agent: triages issues, labels them, proposes fix PRs
@@ -77,7 +77,7 @@ An agent with genuine tool access that does something useful and mildly conseque
 - A research agent: given a question, searches, reads, and produces a cited report
 - A database analyst: natural language → SQL → chart, with a read-only connection
 
-**Non-negotiable requirements**
+**Build these safeguards in from day one — they're what turns "toy demo" into "portfolio piece":**
 - Hard step limit and a spend cap that actually halts the run
 - Full audit log of every tool call and its result
 - Human approval gate before any write/destructive action
